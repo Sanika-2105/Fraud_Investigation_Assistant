@@ -1,0 +1,6 @@
+deviceId,customerId,deviceName,deviceType
+DEV015,C010,Google Pixel 10,Mobile
+DEV016,C011,Lenovo ThinkPad X1,Laptop
+DEV017,C012,iPad Pro M4,Tablet
+DEV018,C013,Asus ROG Zephyrus,Laptop
+DEV019,C014,Samsung Galaxy S25,Mobile

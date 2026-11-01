@@ -1,0 +1,4 @@
+transactionId,customerId,amount,transactionDate,currentCity,currentCountry,deviceId,failedLoginAttempts,transactionsLast10Min
+TXN1018,C005,18000.00,2026-10-15T10:00:00,Chennai,India,DEV005,0,1
+TXN1019,C006,180000.00,2026-10-15T10:15:00,Mumbai,India,DEV999,3,5
+TXN1020,C007,500000.00,2026-10-15T10:30:00,London,UK,DEV999,7,15
