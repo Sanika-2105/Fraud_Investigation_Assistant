@@ -1,1 +1,16 @@
+FRAUD INVESTIGATION ASSISTANT - SAMPLE FILES
+=================================================================================================================================================================
 
+This folder contains sample input files and a reference output file to demonstrate the application's functionality.
+
+1. INPUT CSV FILES (ADMIN MODULE)
+
+   - customers.csv – Sample customer records for customer data import.
+   - transactions.csv – Sample transaction records for fraud analysis.
+   - devices.csv – Sample registered device details.
+
+2. OUTPUT PDF FILE (ANALYST MODULE)
+
+   - sample_investigation_report.pdf – Sample investigation report generated after transaction analysis, analyst review, and submission of investigation comments.
+
+Note: These files are provided for testing, demonstration, and reference purposes.
